@@ -5,6 +5,7 @@ Its a Library management system.
 Objective: Create an application that manages the borrowing and returning of books, including user registration and book inventory management.
 
 Features:
+
 User Management: Users can register, log in, and update their profiles.
 
 Book Inventory: Admin can add, remove, and update book details.
